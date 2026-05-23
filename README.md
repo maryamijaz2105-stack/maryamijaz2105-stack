@@ -23,10 +23,10 @@ Somewhere between procrastinating, doom scrolling, and trying to romanticize my 
 
 Right now I’m building myself around:
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
+* 🤖 AI , GEN AI , AGENTIC AI (IYKYK)
+* 🧠 ML , LLMS AND MORE FANCY TECH WORDS
 * 💻 Software Engineering
-* 🚀 Better habits & discipline
+* 🚀 How to keep my phone down for 2 seconds.
 
 Currently trying to:
 
@@ -39,10 +39,11 @@ Currently trying to:
 
 ## 💻 Things I Like
 
-* My laptop
+* My lapi
 * My phone
+* SUVS and Sedans
 * Fashion
-* Gold & diamonds
+* Gold & diamonds (I am a brown gurl)
 * Aesthetic setups
 * Purple everything
 * Pinterest-level life goals (financially unavailable rn)
@@ -68,11 +69,11 @@ class Me:
 
 ## 📚 Currently Learning
 
-* Python
+* Python and its friends (pandas , pytorch , pydantic)
 * Machine Learning basics
 * AI concepts
-* Better habits
-* Time management
+* Better sleeping habits
+* Managing however less time I feel I have 
 * How to stop opening TikTok every 4 minutes
 
 ---
