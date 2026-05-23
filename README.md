@@ -85,6 +85,6 @@ Comfort zone is comfortable... maybe a little too comfortable.
 
 <div align="center">
 
-### 💎 currently investing in skills instead of high-jewellery and lab diamonds
+### 💎 Currently investing in skills instead of high-jewellery and lab diamonds.
 
 </div>
