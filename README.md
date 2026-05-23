@@ -13,40 +13,41 @@
 ## 🌷 About Me
 
 ```txt
-started life hating dodging tables ...
-still somehow survived software engineering 💀
+spent my whole life avoiding dodging tables...
+still somehow ended up in software engineering 💀
 ```
 
-In 3 months I’ll officially enter my last year of university, which honestly feels unreal.
+In 3 months I’ll officially be entering my last year of university, which honestly feels unreal.
 
-Somewhere between procrastinating, doom scrolling, and trying to romanticize my degree , I accidentally fell in love with my lapi.
+Somewhere between procrastinating, doom scrolling, and trying to romanticize my degree, I accidentally became attached to my lapi.
 
-Now I’m building my future in:
+Right now I’m building myself around:
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 💻 Software Engineering
-* 🚀 Self growth & discipline
+* 🚀 Better habits & discipline
 
-I’m currently trying to:
+Currently trying to:
 
 * ✨ build focus
-* ✨ eliminate procrastination
+* ✨ stop procrastinating
 * ✨ leave my comfort zone
-* ✨ become the person younger me would think is cool
-* 
+* ✨ become someone younger me would look up to
 
 ---
 
-## 💻 Things I Love
+## 💻 Things I Like
 
 * My laptop
 * My phone
 * Fashion
-* Gold and diamonds ( I am a brown girl )
+* Gold & diamonds
 * Aesthetic setups
 * Purple everything
-* Pinterest-level life goals (BROKE ATM)
+* Pinterest-level life goals (financially unavailable rn)
+* Sushi
+* Being a fiancée
 
 ---
 
@@ -78,19 +79,12 @@ class Me:
 
 ## 🌙 A Little Reminder
 
-Comfort zone is comfortable… maybe a little too comfortable
-
----
-
-
----
-
+Comfort zone is comfortable... maybe a little too comfortable.
 
 ---
 
 <div align="center">
 
-### 💎 "Becoming the dream version of myself who can afford lab grown diamonds"
+### 💎 currently investing in skills instead of high-jewellery and lab diamonds
 
 </div>
-
