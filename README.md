@@ -78,23 +78,10 @@ class Me:
 
 ## 🌙 A Little Reminder
 
-> growth is uncomfortable.
->
-> leaving your comfort zone is uncomfortable.
->
-> but staying the same forever is worse.
+Comfort zone is comfortable… maybe a little too comfortable
 
 ---
 
-## 💜 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -103,7 +90,7 @@ class Me:
 
 <div align="center">
 
-### 💎 "becoming the dream version of myself one step at a time"
+### 💎 "Becoming the dream version of myself who can afford lab grown diamonds"
 
 </div>
 
