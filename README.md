@@ -13,7 +13,7 @@
 ## 🌷 About Me
 
 ```txt
-spent my whole life avoiding dodging tables...
+Spent my whole life avoiding dodging tables...
 still somehow ended up in software engineering 💀
 ```
 
