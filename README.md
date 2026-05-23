@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x2dXNobW5ocjRwZTd3MXJiMXU4NzNwZ2Q5dW0wMWd4Njl6cW9qdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="250" />
 
-### software engineering student • future ai/ml engineer (hopefully) • professional doom scroller ✨
+### Software engineering student • future ai/ml engineer (hopefully) • professional doom scroller ✨
 
 </div>
 
