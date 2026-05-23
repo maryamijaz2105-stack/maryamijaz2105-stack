@@ -1,4 +1,4 @@
-# 💜 Hey, I’m Maryam
+# Hey, I’m Maryam
 
 <div align="center">
 
