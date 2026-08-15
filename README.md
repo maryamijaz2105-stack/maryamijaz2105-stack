@@ -1,91 +1,107 @@
-# Hey, I’m Maryam
+# Maryam Ijaz
 
-<div align="center">
+### Software Engineering Student | Aspiring AI/ML Engineer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x2dXNobW5ocjRwZTd3MXJiMXU4NzNwZ2Q5dW0wMWd4Njl6cW9qdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="250" />
+Software Engineering student focused on building a strong foundation in **Artificial Intelligence, Machine Learning, and software development**.
 
-### Software engineering student •  AI/ML engineer  • Professional doom scroller ✨
-
-</div>
+Currently developing practical experience through academic projects, structured courses, and hands-on work with Python, data, and AI technologies.
 
 ---
 
-## 🌷 About Me
+## About Me
 
-```txt
-Spent my whole life avoiding dodging tables...
-still somehow ended up in software engineering 💀
-```
+I am a Software Engineering student with a growing focus on **AI/ML engineering**.
 
-In 3 months I’ll officially be entering my last year of university, which honestly feels unreal.
+My current interests include:
 
-Somewhere between procrastinating, doom scrolling, and trying to romanticize my degree, I accidentally became attached to my lapi.
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- LLMs
+- Data Analysis
+- Software Engineering
 
-Right now I’m building myself around:
-
-* 🤖 AI , GEN AI , AGENTIC AI (IYKYK)
-* 🧠 ML , LLMS AND MORE FANCY TECH WORDS
-* 💻 Software Engineering
-* 🚀 How to keep my phone down for 2 seconds.
-
-Currently trying to:
-
-* ✨ build focus
-* ✨ stop procrastinating
-* ✨ leave my comfort zone
-* ✨ become someone younger me would look up to
+I enjoy learning by building projects and applying concepts beyond coursework. My goal is to develop the technical depth needed to build reliable and useful intelligent systems.
 
 ---
 
-## 💻 Things I Like
+## Technical Skills
 
-* My lapi
-* My phone
-* SUVS and Sedans
-* Fashion
-* Gold & diamonds (I am a brown gurl)
-* Aesthetic setups
-* Purple everything
-* Pinterest-level life goals (financially unavailable rn)
-* Sushi
-* Being a fiancée
+### Languages
+- Python
+- C++
+- JavaScript
+- HTML
+- CSS
 
----
+### AI / Data
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Generative AI
+- LLMs
 
-## 🪻 Current Era
-
-```python
-class Me:
-    def __init__(self):
-        self.major = "Software Engineering"
-        self.learning = ["AI", "ML"]
-        self.energy = "sleep deprived"
-        self.goal = "becoming disciplined"
-        self.favorite_color = "purple"
-        self.status = "trying my best fr"
-```
-
----
-
-## 📚 Currently Learning
-
-* Python and its friends (pandas , pytorch , pydantic)
-* Machine Learning basics
-* AI concepts
-* Better sleeping habits
-* Managing however less time I feel I have 
-* How to stop opening TikTok every 4 minutes
+### Development & Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+- REST APIs
+- MongoDB
+- Node.js
+- Express.js
 
 ---
 
-## 🌙 A Little Reminder
+## Projects
 
-Comfort zone is comfortable... maybe a little too comfortable.
+### BugSense
+Full-stack bug tracking system with an AI-assisted priority classification feature.
+
+**Technologies:** Node.js, Express.js, MongoDB, JavaScript
+
+### Memory Sentinel
+Linux-based project developed as part of an Information Security course.
+
+**Technologies:** Linux, C/C++
+
+### Diabetes Prediction Model
+Machine learning project focused on predicting diabetes using a structured dataset.
+
+**Technologies:** Python, Machine Learning
 
 ---
 
-<div align="center">
+## Currently Learning
 
-### 💎 Currently investing in skills instead of high-jewellery and lab diamonds.
+- Machine Learning fundamentals
+- Data analysis with Python
+- Generative AI
+- LLMs
+- AI engineering concepts
+- Building and integrating practical AI systems
 
-</div>
+---
+
+## Career Direction
+
+I'm working toward becoming an **AI/ML Engineer**, while continuing to strengthen my software engineering fundamentals.
+
+My current learning path:
+
+**Software Engineering → Python & Data → Machine Learning → AI & Generative AI**
+
+---
+
+## A Little About Me
+
+Outside of coding, I'm a professional doom scroller who is slowly trying to become more disciplined about where I spend my time.
+
+Currently investing more in **skills than distractions**. 💜
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, building, and exploring new opportunities in software engineering and AI/ML.
